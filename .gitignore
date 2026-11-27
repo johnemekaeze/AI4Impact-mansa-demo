@@ -1,0 +1,5 @@
+# Secrets: keep the real .env out of version control
+.env
+
+# Generated audio
+*.wav
